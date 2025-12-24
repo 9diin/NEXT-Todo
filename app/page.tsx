@@ -13,7 +13,6 @@ import {
     Card,
     Checkbox,
     Field,
-    FieldDescription,
     FieldGroup,
     FieldLabel,
     FieldSet,
